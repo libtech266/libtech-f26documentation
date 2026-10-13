@@ -1,6 +1,7 @@
 # Troubleshooting During ILS Building
 
 During ILS building, I did not have many issues--I found the Burns book and coding videos to be pretty straightforward. One issue I did have was the Wordpress file not unzipping due to the command not being installed on my VM. Unfortunately, I do not have the error messages from when it happened, but I did run my history to show the command I used to fix it. 
+
 <img width="391" height="130" alt="Screenshot 2026-10-13 at 5 13 38 PM" src="https://github.com/user-attachments/assets/2fa37a93-03c7-468f-a21d-dd158d208f9e" />
 
 After pulling the Wordpress zip to my VM I attempted the following code: 
